@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-typescript",
+  "packageManager": "yarn@4.5.1",
+  "scripts": {
+    "watch": "tsc -p tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "type-testing": "^0.2.0",
+    "typescript": "^5.7.2"
+  }
+}
